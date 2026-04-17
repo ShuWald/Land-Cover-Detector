@@ -1,0 +1,9 @@
+torch
+numpy
+albumentations
+lightning
+git+https://github.com/IBM/terratorch.git
+huggingface_hub
+jupyterlab
+ipykernel
+ipywidgets

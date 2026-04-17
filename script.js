@@ -43,6 +43,7 @@ function initMapByType(containerId, type, mapLocation = location) {
   new google.maps.Map(container, mapOptions);
 }
 
+// All three work now
 function initMap() {
   //initMapByType("map-js", "js", location);
   //initMapByType("map-2dtiles", "2dtiles", location);

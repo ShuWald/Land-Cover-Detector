@@ -1,1 +1,6 @@
 secrets.txt
+venv/
+__pycache__/
+model/cache/
+model/data/
+model/prithvi_out/
